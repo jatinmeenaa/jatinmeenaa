@@ -27,15 +27,15 @@
 
 ### 🔭 Current Focus
 
-- 🧠 Diving deeper into **machine learning** concepts
-- 📊 Building real-world projects using **Pandas** and **NumPy**
-- 🚀 Exploring **AI** one step at a time!
+- 🧠 Diving deeper into **machine learning** concepts  
+- 📊 Building real-world projects using **Python**  
+- 🚀 Exploring **AI** one step at a time
 
 ---
 
 ### 🌐 Let's Connect
 
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/jatin-meena-331581252/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -48,22 +48,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatinmeenaa&show_icons=true&theme=radical" alt="Jatin's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinmeenaa&theme=radical" />
-</p>
-
----
-
-### 💬 Favorite Quote
-
-<p align="center"><em>"The best way to predict the future is to invent it." — Alan Kay</em></p>
-
----
-
-### ✨ Just for Fun
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="AI Learning GIF"/>
-</p>
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jatinmeenaa&show_icons=true&theme=radical" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinmeenaa&theme=radical" />
+</div>
